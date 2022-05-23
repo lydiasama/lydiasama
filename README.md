@@ -1,6 +1,6 @@
 ### Hello, world!👋 I'm Lydiasama
 
-👩🏻‍💻 I’m currently working on Nimble (Thailand) Co., Ltd.
+👩🏻‍💻 I’m currently working at Nimble (Thailand) Co., Ltd.
 
 💭 I'm excited to share my stat with you: 👇🏻
 
