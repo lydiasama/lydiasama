@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m currently working on Nimble (Thailand) Co., Ltd.
 
-I'm excited to share my stat with you: 👇🏻
+💭 I'm excited to share my stat with you: 👇🏻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiasama&show_icons=true&bg_color=000000&theme=nightowl&border_radius=20&border_color=B681F6&hide_border=false)
 
